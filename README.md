@@ -1,5 +1,5 @@
 ## Visit My Phishing Article on Meduim <a href='https://medium.com/@abhishekacharya092/phishing-sites-predictor-using-fastapi-3a686b041566'>here</a> 
-## Complete Explanation of Project <a href='https://youtu.be/zKNXHluHneU'>here</a>
+
 ### Deal with Phishing Attacks 
 ## Website [link](https://www.cmswebsiteservices.com/work/malicious-link-detector)
 * Create a model which can easily predict Phishing URLs.
